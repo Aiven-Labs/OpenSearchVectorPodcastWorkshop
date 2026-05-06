@@ -163,8 +163,7 @@ workshop/
 │   ├── 03_reranking.ipynb          # Advanced: cross-encoder re-ranking
 │   ├── 04_metadata_filtering.ipynb # Advanced: filter by episode/date
 │   ├── 05_larger_embeddings.ipynb  # Advanced: 768-dim embeddings
-│   ├── 06_aiven_opensearch.ipynb   # Advanced: managed cloud cluster
-│   └── 07_streamlit_app.ipynb      # Advanced: Streamlit UI walkthrough
+│   └── 06_aiven_opensearch.ipynb   # Advanced: managed cloud cluster
 └── src/
     ├── parser.py                   # Markdown → PodcastChunk objects
     ├── opensearch_client.py        # Index management, search, Aiven client
