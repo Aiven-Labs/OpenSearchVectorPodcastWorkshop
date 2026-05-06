@@ -156,7 +156,7 @@ workshop/
 ├── README.md
 ├── docker-compose.yml              # OpenSearch + Dashboards
 ├── requirements.txt
-├── streamlit_app.py                # Streamlit chat UI (Notebook 07)
+├── streamlit_app.py                # Streamlit chat UI
 ├── notebooks/
 │   ├── 01_index_podcasts.ipynb     # Core: parse, embed, index
 │   ├── 02_rag_pipeline.ipynb       # Core: search + RAG
